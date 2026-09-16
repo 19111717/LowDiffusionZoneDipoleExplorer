@@ -106,6 +106,4 @@ python -m unittest discover -s tests
 
 The observational CSV was extracted from the PDF vector objects in Figure 3 of Li et al. (2024), *The Astrophysical Journal*, **962**, 43. It contains 44 amplitude measurements and 43 phase measurements from 11 experiments. These values are figure-digitization results rather than official data tables released by the experimental collaborations.
 
-Please cite [Li et al. (2024)](https://doi.org/10.3847/1538-4357/ad198e) and the corresponding experimental publications when using these data.
-
-No open-source license has been selected on behalf of the repository owner. Add an appropriate `LICENSE` file before publishing the repository.
+Please cite the corresponding experimental publications when using these data.
