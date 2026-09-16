@@ -1,9 +1,6 @@
 # Low-Diffusion Dipole Explorer
 
 这是一个从 CygBubble 项目中抽出的独立交互式程序，用于研究均匀有序磁场中的球形低扩散区如何改变背景宇宙线偶极的振幅、方向和赤经相位。
-
-该目录可以直接作为 GitHub 仓库根目录。它不依赖原 CygBubble 项目，也不需要数值模拟网格、NPZ 文件、磁场存档或原生求解器。
-
 ![Explorer preview](assets/explorer_preview.png)
 
 ## 功能
