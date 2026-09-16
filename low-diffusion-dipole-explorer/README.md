@@ -98,9 +98,3 @@ a(E) = A_at_10TeV * (E / 10 TeV) ** Delta_low_parallel
 python -m unittest discover -s tests
 ```
 
-## 数据来源
-
-观测 CSV 由 Li et al. (2024), *The Astrophysical Journal* **962**, 43, Figure 3 的 PDF 矢量对象提取，包含 11 组实验的 44 个振幅点和 43 个相位点。它是图像数字化结果，不是实验合作组发布的原始数据表。使用时请引用 [Li et al. (2024)](https://doi.org/10.3847/1538-4357/ad198e) 以及对应实验文献。
-
-本目录没有代替仓库所有者选择开源许可证。公开发布前请根据代码和数据的实际授权添加合适的 `LICENSE`。
-
