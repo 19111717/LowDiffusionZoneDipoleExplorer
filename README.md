@@ -75,7 +75,7 @@ The data points are displayed only when this energy conversion is valid and `Dlo
 ```text
 .
 ├── LowDiffusionDipoleExplorer.py       # Interactive application entry point
-├── cygbubble/
+├── models/
 │   ├── config.py                       # Physical constants and model parameters
 │   ├── coordinates.py                  # Galactic, equatorial, and Cartesian transforms
 │   ├── observations.py                 # Li et al. CSV loading and validation
